@@ -7,4 +7,4 @@ Username: "Any"  //Not considered in the check
 
 Email: admin@admin.com
 
-Password: admin@admin.com
+Password: admin@123
